@@ -4,6 +4,7 @@
 
 
 👩‍💻 About Me
+
 I’m a Data Engineer with ** years of experience in designing, developing, and automating data pipelines across telecom, retail, and taxation domains. I combine traditional ETL and modern cloud data engineering to build secure, reliable, and analytics-ready systems that help teams make better data-driven decisions.
 
 Key areas I work on:
